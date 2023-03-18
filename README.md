@@ -1,4 +1,5 @@
-# excel-challenge-Crowdfunding-
+# Kickstarter projects-Crowdfunding-
+The objective of this project is to modify and analyze the data of 4,000 past Kickstarter projects as we attempt to uncover some market trends.
 
 
 
