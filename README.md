@@ -16,6 +16,7 @@
 •	Details of medium used for promoting campaigns is not provided
 •	How much expenditure occurred on each campaign 
 
+![image](https://user-images.githubusercontent.com/24644072/226076040-0cab5b63-5363-4013-9366-3cdccfc2afc8.png)
 
 •	What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
