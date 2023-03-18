@@ -25,3 +25,5 @@ The objective of this project is to modify and analyze the data of 4,000 past Ki
 •	We can also create table for spotlight campaigns in order to evaluate the success of spotlight campaigns 
 •	We can also create pie chart to see the percentage of outcome overall
 •	We can also create trend line by years & category to see the trends over the years 
+
+
